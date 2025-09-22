@@ -1,5 +1,12 @@
 # 💫 About Me:
-Hey, I’m Aryan | 💻 Python fan & ☕ Java rookie | 🎸 Guitar player | 🚀 Tech explorer always learning new stuff
+👋 Hey there! I’m Aryan
+💻 Python enthusiast | ☕ Java beginner (still figuring out why it needs so many semicolons 😅)
+🎸 Guitar player by night, tech explorer by day
+📚 Studying at FTCC → aiming for a Bachelor’s in Information Technology at a 4-year university
+⚡ Love coding, learning new things, and keeping up with the latest tech/software updates
+🚀 Always curious, always building, sometimes breaking (but hey, that’s how you learn 🤓)
+
+Turning coffee into code since… well, still working on upgrading from instant coffee ☕➡️💻
 
 
 ## 🌐 Socials:
