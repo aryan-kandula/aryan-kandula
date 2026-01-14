@@ -1,5 +1,5 @@
 # ⚡ About Me:
-👋 Hey there! I’m Aryan<br>💻 Python enthusiast | ☕ Java rookie <br>🎸 Guitar player by night, tech explorer by day<br>📚 Studying at FTCC → aiming for a Bachelor’s in Information Technology at a 4-year university<br>⚡ Love coding, learning new things, and keeping up with the latest tech/software updates<br>🚀 Always curious, always building, sometimes breaking (but hey, that’s how you learn 🤓)<br><br>"Turning coffee into code since… well, still working on upgrading from instant coffee ☕➡️💻"
+👋 Hey there! I’m Aryan<br>💻 Python enthusiast | ☕ Java rookie <br>🎸 Guitar player by night, tech explorer by day<br>📚 Studying at FTCC → aiming for a Bachelor’s in Information Technology at a 4-year university<br>⚡ Love coding, learning new things, and keeping up with the latest tech/software updates<br>🚀 Always curious, always building, sometimes breaking (but hey, that’s how you learn 🤓)<br>👾 Currently learning CSC-113 (AI Fundamentals), CSC-289 (Programming Capstone Project) and more <br><br>"Turning coffee into code since… well, still working on upgrading from instant coffee ☕➡️💻"
 
 
 # 🌐 Socials:
