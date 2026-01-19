@@ -12,11 +12,23 @@
 - 👨‍💻 All of my projects are available at **https://github.com/aryan-kandula**
 - ⚡ Fun fact **I turn coffee into code… still upgrading from instant ☕➡️💻**
 
-<div> <a href="https://github.com/aryan-kandula" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-<a href = "mailto:kandulaa1847@student.faytechcc.edu"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div><h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://discord.gg/y4ZHb8jnAh" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/discord.svg" alt="y4ZHb8jnAh" height="30" width="40" /></a></p>
+
+<h3 align="left">Connect with me:</h3>
+
+<p align="left" style="display: flex; align-items: center; gap: 8px;">
+  <a href="https://discord.gg/y4ZHb8jnAh" target="_blank">
+    <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/discord.svg" height="30" />
+  </a>
+
+  <a href="https://github.com/aryan-kandula" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+  <a href="mailto:kandulaa1847@student.faytechcc.edu" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
