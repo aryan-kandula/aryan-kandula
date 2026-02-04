@@ -1,15 +1,19 @@
 <div align="center">
 
-<h2>👋 Hi, I am</h2>
-<h1>Aryan Kandula</h1>
+<h1> 👋 Hi, I am Aryan Kandula </h1>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<h3 style="margin-top: 8px;">
+  A curious computer science student & aspiring software developer
+</h3>
 
-<h3>A curious computer science student & aspiring software developer</h3>
-
-<img src="https://komarev.com/ghpvc/?username=aryan-kandula&label=Profile%20views&color=blue&style=flat" alt="aryan-kandula" />
+<img
+  src="https://komarev.com/ghpvc/?username=aryan-kandula&label=Profile%20views&color=blue&style=flat"
+  alt="profile views"
+/>
 
 </div>
+
+
 
 ---
 
@@ -139,7 +143,13 @@
 ---
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+  <hr style="
+    width: 80%;
+    height: 4px;
+    border: none;
+    border-radius: 10px;
+    background: linear-gradient(90deg, #60A5FA, #2563EB);
+  ">
 </div>
 
 <div align="center">
