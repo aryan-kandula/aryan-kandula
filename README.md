@@ -5,7 +5,7 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-### A curious computer science student & aspiring software developer
+<h3>A curious computer science student & aspiring software developer</h3>
 
 <img src="https://komarev.com/ghpvc/?username=aryan-kandula&label=Profile%20views&color=blue&style=flat" alt="aryan-kandula" />
 
@@ -123,13 +123,11 @@
 </p>
 
 <div align="center">
-  
-![Python](https://img.shields.io/badge/Python-35%25-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-25%25-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-20%25-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML/CSS](https://img.shields.io/badge/HTML/CSS-15%25-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Other](https://img.shields.io/badge/Other-5%25-gray?style=for-the-badge)
-
+  <img src="https://img.shields.io/badge/Python-35%25-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-25%25-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-20%25-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML/CSS-15%25-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Other-5%25-gray?style=for-the-badge"/>
 </div>
 
 ---
@@ -140,11 +138,10 @@
 
 ---
 
-<!-- Animated Footer -->
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+👋;Let's+build+something+amazing!+🚀;Happy+Coding!+💻" alt="Footer Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+👋;Let's+build+something+amazing!+🚀;Happy+Coding!+💻" />
 </div>
