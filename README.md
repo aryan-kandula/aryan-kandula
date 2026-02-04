@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1> 👋 Hi, I am Aryan Kandula </h1>
+<img src="banner.gif" alt="Aryan Kandula" width="600"/>
 
 <h3 style="margin-top: 8px;">
   A curious computer science student & aspiring software developer
