@@ -1,18 +1,20 @@
-<!-- TOP WAVE: Subtle blue gradient with shadow, text aligned -->
-<img 
-  src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Hi%20%F0%9F%91%8B,%20I%20am%20Aryan%20Kandula&fontSize=40&fontAlignY=35&color=0:1E3C72,50:2A5298,100:1E3C72&fontColor=ffffff&animation=fadeIn&waveCount=3&shadow=1" 
-  width="100%" 
-/>
+<div align="center">
+  
+# 👋 Hi, I am Aryan Kandula
 
-<h3 align="center">A curious computer science student & aspiring software developer</h3>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=aryan-kandula&label=Profile%20views&color=blue&style=flat" alt="aryan-kandula" />
-</p>
+### A curious computer science student & aspiring software developer
+
+<img src="https://komarev.com/ghpvc/?username=aryan-kandula&label=Profile%20views&color=blue&style=flat" alt="aryan-kandula" />
+
+</div>
 
 ---
 
 ## 👋 About Me
+
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 ### 🔭 Currently Working On
 - 💻 **Programming Capstone Project**
@@ -116,11 +118,18 @@
 <h3 align="center">🧠 Language Distribution</h3>
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryan-kandula&layout=donut&langs_count=12&theme=tokyonight&hide_border=true"
-    height="230"
-  />
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,c,html,css,bash&theme=dark" />
 </p>
+
+<div align="center">
+  
+![Python](https://img.shields.io/badge/Python-35%25-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-25%25-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-20%25-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML/CSS](https://img.shields.io/badge/HTML/CSS-15%25-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Other](https://img.shields.io/badge/Other-5%25-gray?style=for-the-badge)
+
+</div>
 
 ---
 
@@ -128,8 +137,13 @@
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=aryan-kandula&theme=react-dark"/>
 
-<!-- BOTTOM WAVE: Subtle blue gradient with shadow -->
-<img 
-  src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:1E3C72,50:2A5298,100:1E3C72&waveCount=3&shadow=1" 
-  width="100%" 
-/>
+---
+
+<!-- Animated Footer -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+👋;Let's+build+something+amazing!+🚀;Happy+Coding!+💻" alt="Footer Typing SVG" />
+</div>
