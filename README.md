@@ -49,7 +49,6 @@
 - 🐍 **Python**
 - ☕ **Java** (Beginner → Advanced)
 - ⚙️ **C / C++**
-- 🎮 **Unreal Engine (C++)**
 - 🤖 **AI collaboration & prompt engineering**
 - 🛠️ **GitHub workflows & version control**
 - 🧩 **Building my first AI assistants**
@@ -58,9 +57,9 @@
 
 ### 💬 Ask Me About
 - Python  
-- Java (Beginner & Intermediate)  
-- C / C++  
-- Unreal Engine  
+- Java  
+- AI collaboration
+- C / C++ (Beginner & Intermediate) 
 - Student tech life  
 
 ---
