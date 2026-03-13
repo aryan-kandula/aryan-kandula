@@ -6,14 +6,18 @@
   A curious computer science student & aspiring software developer
 </h3>
 
+<p>
+  <a href="https://aryan-kandula.github.io/about-me/">
+    🔗 View My Portfolio
+  </a>
+</p>
+
 <img
   src="https://komarev.com/ghpvc/?username=aryan-kandula&label=Profile%20views&color=blue&style=flat"
   alt="profile views"
 />
 
 </div>
-
-
 
 ---
 
