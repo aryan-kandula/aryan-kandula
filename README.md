@@ -48,7 +48,7 @@
 ### 🌱 Currently Learning
 - 🐍 **Python**
 - ☕ **Java** (Beginner → Advanced)
-- ⚙️ **C / C++**
+- ⚙️ **C**
 - 🤖 **AI collaboration & prompt engineering**
 - 🛠️ **GitHub workflows & version control**
 - 🧩 **Building my first AI assistants**
@@ -59,7 +59,7 @@
 - Python  
 - Java  
 - AI collaboration
-- C / C++ (Beginner & Intermediate) 
+- C (Beginner & Intermediate) 
 - Student tech life  
 
 ---
@@ -100,7 +100,6 @@
 <p align="left">
   <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/python-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/c-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/cplusplus-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/java-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/html5-original-wordmark.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/css3-original-wordmark.svg" width="40"/>
@@ -126,13 +125,13 @@
 <h3 align="center">🧠 Language Distribution</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,c,html,css,bash&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,html,css,bash&theme=dark" />
 </p>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Python-35%25-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-25%25-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-20%25-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-30%25-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-15%25-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML/CSS-15%25-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/Other-5%25-gray?style=for-the-badge"/>
 </div>
