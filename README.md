@@ -21,37 +21,37 @@
 
 ---
 
-## 👋 About Me
+## About Me
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 ### 🔭 Currently Working On
-- 💻 **Programming Capstone Project**
-- 🗄️ **Database Programming I**
-- 🐧 **Linux / UNIX (Single User)**
-- 🤖 **Artificial Intelligence Fundamentals**
-- ☕ **Advanced Java Programming**
+- **Programming Capstone Project**
+- **Database Programming I**
+- **Linux / UNIX (Single User)**
+- **Artificial Intelligence Fundamentals**
+- **Advanced Java Programming**
 
 ---
 
 ### 👯 Looking to Collaborate On
-- 🤝 Beginner-friendly **Python** and **AI** projects
+- Beginner-friendly **Python** and **AI** projects
 
 ---
 
 ### 🤝 Looking for Help With
-- 🧠 **AI Fundamentals**
-- 💡 Real-world **AI project ideas**
+- **AI Fundamentals**
+- Real-world **AI project ideas**
 
 ---
 
 ### 🌱 Currently Learning
-- 🐍 **Python**
-- ☕ **Java** (Beginner → Advanced)
-- ⚙️ **C**
-- 🤖 **AI collaboration & prompt engineering**
-- 🛠️ **GitHub workflows & version control**
-- 🧩 **Building my first AI assistants**
+- **Python**
+- **Java** (Beginner → Advanced)
+- **C**
+- **AI collaboration & prompt engineering**
+- **GitHub workflows & version control**
+- **Building my first AI assistants**
 
 ---
 
@@ -65,12 +65,12 @@
 ---
 
 ### 📫 How to Reach Me
-- 📧 **Email:** kandulaa1847@student.faytechcc.edu
+- **Email:** kandulaa1847@student.faytechcc.edu
 
 ---
 
 ### 👨‍💻 Projects & Code
-- 🌐 **GitHub:** https://github.com/aryan-kandula
+- **GitHub:** https://github.com/aryan-kandula
 
 ---
 
