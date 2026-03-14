@@ -2,7 +2,6 @@
 
 <img src="banner.gif" alt="Aryan Kandula" width="600"/>
 
-### Aryan Kandula
 **Junior Software Developer · Computer Science Student**
 
 [![Email](https://img.shields.io/badge/Gmail-aaronaryankandula@gmail.com-darkred?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aaronaryankandula@gmail.com)
