@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="banner.gif" alt="Aryan Kandula" width="600"/>
+<img src="banner.jpg" alt="Aryan Kandula" width="600"/>
 
 **Junior Software Developer · Computer Science Student**
 
