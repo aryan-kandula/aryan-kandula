@@ -15,20 +15,13 @@
 
 ## 👋 About Me
 
-Driven by curiosity and a passion for clean, purposeful code. Currently completing 
-my A.S. in Computer Science at **Fayetteville Technical Community College** 
-(graduating **Summer 2025**), then transferring to the **University of North Carolina 
-at Pembroke** to pursue a **B.S. in Computer Science** starting **Fall 2025**.
+Driven by curiosity and a passion for clean, purposeful code. Currently completing my A.S. in Computer Science at **Fayetteville Technical Community College** (graduating **Summer 2025**), then transferring to the **University of North Carolina at Pembroke** to pursue a **B.S. in Computer Science** starting **Fall 2025**.
 
-Evolving proficiency in Python, Java, C, SQL, HTML, and JavaScript through 
-challenging projects, with a focus on AI-assisted workflows to innovate and 
-accelerate development.
+Evolving proficiency in Python, Java, C, SQL, HTML, and JavaScript through challenging projects, with a focus on AI-assisted workflows to innovate and accelerate development.
 
-When I'm not coding, you'll find me playing guitar 🎸, writing music, or diving 
-into linguistics — I can read and write 5 languages and speak 3 of them fluently. 
-_Turns out learning syntax isn't so different whether it's Python or Portuguese._
+When I'm not coding, you'll find me playing guitar 🎸, writing music, or singing — creativity in any form keeps me sharp. I'm also a linguistics enthusiast; I can read and write 5 languages and speak 3 of them fluently. Turns out learning syntax isn't so different whether it's Python or Portuguese.
 
-> ☕ → 💻  I turn coffee into code… still upgrading from instant.
+> ☕ → 💻 &nbsp; I turn coffee into code… still upgrading from instant.
 
 ---
 
@@ -71,10 +64,21 @@ _Turns out learning syntax isn't so different whether it's Python or Portuguese.
 
 ## 🚀 Projects
 
+### 🌾 Farm Management System
+> Java · Java Swing · CSV · OOP
+
+A full-featured desktop application built with Java Swing for managing farm operations end-to-end — store inventory, animal sales, veterinary services, and business reporting. Features an animated GUI with custom table headers, a live status bar, and CSV-based persistence with auto-save. Developed iteratively across 10+ commits with real improvements including input validation, duplicate guards, date format enforcement, low-stock warnings, report timestamps, and expanded seed data.
+
+🔗 [View on GitHub](https://github.com/aryan-kandula/CSC-251)
+
+---
+
 ### 📋 Task Management Web Application
 > HTML5 · JavaScript · Python
 
 Engineered a student-focused platform centralising deadlines, Canvas links, and assignments into one dynamic interface — a JS front-end backed by a Python URL-parsing engine.
+
+🔗 [View Live](https://aryan-kandula.github.io/TaskManagerPro/TaskManagerPro.html)
 
 ---
 
@@ -126,8 +130,6 @@ Thrived in team-based environments — contributing feature code, managing branc
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=aryan-kandula&theme=react-dark"/>
 </div>
-
----
 
 ---
 
