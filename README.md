@@ -15,11 +15,20 @@
 
 ## 👋 About Me
 
-Driven by curiosity and a passion for clean, purposeful code. Currently completing my A.S. in Computer Science at **Fayetteville Technical Community College** (graduating **Summer 2025**), then transferring to the **University of North Carolina at Pembroke** to pursue a **B.S. in Computer Science** starting **Fall 2025**.
+Driven by curiosity and a passion for clean, purposeful code. Currently completing 
+my A.S. in Computer Science at **Fayetteville Technical Community College** 
+(graduating **Summer 2025**), then transferring to the **University of North Carolina 
+at Pembroke** to pursue a **B.S. in Computer Science** starting **Fall 2025**.
 
-Evolving proficiency in Python, Java, C, SQL, HTML, and JavaScript through challenging projects, with a focus on AI-assisted workflows to innovate and accelerate development.
+Evolving proficiency in Python, Java, C, SQL, HTML, and JavaScript through 
+challenging projects, with a focus on AI-assisted workflows to innovate and 
+accelerate development.
 
-> ☕ → 💻 &nbsp; I turn coffee into code… still upgrading from instant.
+When I'm not coding, you'll find me playing guitar 🎸, writing music, or diving 
+into linguistics — I can read and write 5 languages and speak 3 of them fluently. 
+_Turns out learning syntax isn't so different whether it's Python or Portuguese._
+
+> ☕ → 💻  I turn coffee into code… still upgrading from instant.
 
 ---
 
