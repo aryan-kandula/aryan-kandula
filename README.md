@@ -5,7 +5,7 @@
 **Junior Software Developer · Computer Science Student**
 
 [![Email](https://img.shields.io/badge/Gmail-aaronaryankandula@gmail.com-darkred?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aaronaryankandula@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-aryan--kandula.github.io-1B8070?style=for-the-badge&logo=github&logoColor=white)](https://aryan-kandula.github.io/about-me/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-aryan--kandula.github.io-1B8070?style=for-the-badge&logo=github&logoColor=white)](https://aryan-kandula.github.io/portfolio/)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=aryan-kandula&label=Profile%20views&color=1B8070&style=flat)
 
