@@ -69,7 +69,7 @@ When I'm not coding, you'll find me playing guitar 🎸, writing music, or singi
 
 A full-featured desktop application built with Java Swing for managing farm operations end-to-end — store inventory, animal sales, veterinary services, and business reporting. Features an animated GUI with custom table headers, a live status bar, and CSV-based persistence with auto-save. Developed iteratively across 10+ commits with real improvements including input validation, duplicate guards, date format enforcement, low-stock warnings, report timestamps, and expanded seed data.
 
-🔗 [View on GitHub](https://github.com/aryan-kandula/CSC-251)
+🔗 [View on GitHub](https://github.com/aryan-kandula/CSC-251/tree/main/FarmManagementSystem)
 
 ---
 
