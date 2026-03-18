@@ -17,7 +17,7 @@
 
 Driven by curiosity and a passion for clean, purposeful code. Currently completing my A.S. in Computer Science at **Fayetteville Technical Community College** (graduating **Summer 2025**), then transferring to the **University of North Carolina at Pembroke** to pursue a **B.S. in Computer Science** starting **Fall 2025**.
 
-Fluent across Python, Java, C, SQL, HTML, and JavaScript — with a sharp focus on integrating AI-assisted workflows to build smarter and ship faster.
+Evolving proficiency in Python, Java, C, SQL, HTML, and JavaScript through challenging projects, with a focus on AI-assisted workflows to innovate and accelerate development.
 
 > ☕ → 💻 &nbsp; I turn coffee into code… still upgrading from instant.
 
