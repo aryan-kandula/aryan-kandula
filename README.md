@@ -17,7 +17,7 @@
 
 Driven by curiosity and a passion for clean, purposeful code. Currently completing my A.S. in Computer Science at **Fayetteville Technical Community College** (graduating **Summer 2025**), then transferring to the **University of North Carolina at Pembroke** to pursue a **B.S. in Computer Science** starting **Fall 2025**.
 
-Evolving proficiency in Python, Java, C, SQL, HTML, and JavaScript through challenging projects, with a focus on AI-assisted workflows to innovate and accelerate development.
+Evolving proficiency in Python and Java through advanced coursework, with growing exposure to SQL and HTML — and a strong focus on AI-assisted workflows to innovate and accelerate development.
 
 When I'm not coding, you'll find me playing guitar 🎸, writing music, or singing — creativity in any form keeps me sharp. I'm also a linguistics enthusiast; I can read and write 5 languages and speak 3 of them fluently. Turns out learning syntax isn't so different whether it's Python or Portuguese.
 
@@ -49,14 +49,12 @@ When I'm not coding, you'll find me playing guitar 🎸, writing music, or singi
 <p align="left">
   <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/python-original.svg" width="40" title="Python"/>
   <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/java-original.svg" width="40" title="Java"/>
-  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/c-original.svg" width="40" title="C"/>
   <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/html5-original-wordmark.svg" width="40" title="HTML5"/>
-  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/css3-original-wordmark.svg" width="40" title="CSS3"/>
   <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/sqlite-icon.svg" width="40" title="SQL / SQLite"/>
   <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Devops/gnu_bash-icon.svg" width="40" title="Bash / Linux CLI"/>
 </p>
 
-**Languages:** Python · Java · C · SQL · JavaScript · HTML5  
+**Languages:** Python · Java · HTML5 · SQL *(learning)*  
 **Tools:** Git · GitHub · VS Code · Linux CLI · AI Dev Tools  
 **Concepts:** OOP · Data Structures · SQL Querying · Process Management · Prompt Engineering
 
@@ -69,7 +67,7 @@ When I'm not coding, you'll find me playing guitar 🎸, writing music, or singi
 
 A full-featured desktop application built with Java Swing for managing farm operations end-to-end — store inventory, animal sales, veterinary services, and business reporting. Features an animated GUI with custom table headers, a live status bar, and CSV-based persistence with auto-save. Developed iteratively across 10+ commits with real improvements including input validation, duplicate guards, date format enforcement, low-stock warnings, report timestamps, and expanded seed data.
 
-🔗 [View on GitHub](https://github.com/aryan-kandula/CSC-251/tree/main/FarmManagementSystem)
+🔗 [View on GitHub](https://github.com/aryan-kandula/CSC-251)
 
 ---
 
@@ -115,7 +113,7 @@ Thrived in team-based environments — contributing feature code, managing branc
 
 ## 💬 Ask Me About
 
-`Python` &nbsp; `Java` &nbsp; `C` &nbsp; `SQL` &nbsp; `AI Tools` &nbsp; `Linux CLI` &nbsp; `GitHub Workflows` &nbsp; `Student Tech Life`
+`Python` &nbsp; `Java` &nbsp; `SQL` &nbsp; `AI Tools` &nbsp; `Linux CLI` &nbsp; `GitHub Workflows` &nbsp; `Student Tech Life`
 
 ---
 
