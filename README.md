@@ -13,107 +13,130 @@
 
 ---
 
-## 👋 About Me
+## ⚡ Quick Highlights
 
-Driven by curiosity and a passion for clean, purposeful code. Currently completing my A.S. in Computer Science at **Fayetteville Technical Community College** (graduating **Summer 2025**), then transferring to the **University of North Carolina at Pembroke** to pursue a **B.S. in Computer Science** starting **Fall 2025**.
+- 🎓 A.S. Computer Science → **Summer 2026**
+- 🎯 B.S. Computer Science (UNCP) → **Fall 2026**
+- 💻 Focus: **Python, Java, SQL, AI workflows**
+- 🚀 Builds structured, real-world applications
+- 🧠 Strong foundation in **OOP, data structures, systems**
 
-Evolving proficiency in Python and Java through advanced coursework, with growing exposure to SQL and HTML — and a strong focus on AI-assisted workflows to innovate and accelerate development.
+---
 
-When I'm not coding, you'll find me playing guitar 🎸, writing music, or singing — creativity in any form keeps me sharp. I'm also a linguistics enthusiast; I can read and write 5 languages and speak 3 of them fluently. Turns out learning syntax isn't so different whether it's Python or Portuguese.
+## 👋 Overview
 
-> ☕ → 💻 &nbsp; I turn coffee into code… still upgrading from instant.
+Computer Science student focused on designing clean, maintainable, and scalable software systems. Academic path progresses from **Fayetteville Technical Community College** to **University of North Carolina at Pembroke**.
+
+Work centers around:
+- Structured, production-quality code
+- AI-assisted development workflows
+- Real-world system design through projects
+
+Creative interests in music 🎸 and linguistics strengthen pattern recognition and structured thinking across both natural and programming languages.
+
+> ☕ → 💻 Transforming ideas into structured systems.
 
 ---
 
 ## 🎓 Education
 
-| | Degree | School | Timeline |
-|---|---|---|---|
-| 🟢 | A.S. Computer Science | Fayetteville Technical Community College | Graduating **Summer 2025** |
-| 🔵 | B.S. Computer Science | University of North Carolina at Pembroke | Enrolling **Fall 2025** |
+| Degree | Institution | Timeline |
+|------|------------|---------|
+| A.S. Computer Science | Fayetteville Technical Community College | Summer 2026 |
+| B.S. Computer Science | University of North Carolina at Pembroke | Fall 2026 |
 
 ---
 
-## 🔭 Currently Working On
+## 🛠️ Tech Stack
 
-- **Programming Capstone Project**
-- **Database Programming I**
-- **Linux / UNIX (Single User)**
-- **Artificial Intelligence Fundamentals**
-- **Advanced Java Programming**
+### Languages
+`Python` · `Java` · `HTML5` · `SQL (Learning)`
 
----
+### Tools
+`Git` · `GitHub` · `VS Code` · `Linux CLI` · `AI Dev Tools`
 
-## 🛠️ Languages & Tools
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/python-original.svg" width="40" title="Python"/>
-  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/java-original.svg" width="40" title="Java"/>
-  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/html5-original-wordmark.svg" width="40" title="HTML5"/>
-  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/sqlite-icon.svg" width="40" title="SQL / SQLite"/>
-  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Devops/gnu_bash-icon.svg" width="40" title="Bash / Linux CLI"/>
-</p>
-
-**Languages:** Python · Java · HTML5 · SQL *(learning)*  
-**Tools:** Git · GitHub · VS Code · Linux CLI · AI Dev Tools  
-**Concepts:** OOP · Data Structures · SQL Querying · Process Management · Prompt Engineering
+### Core Concepts
+- Object-Oriented Programming (OOP)
+- Data Structures
+- SQL Querying & Joins
+- Process & System Management
+- Prompt Engineering
 
 ---
 
 ## 🚀 Projects
 
 ### 🌾 Farm Management System
-> Java · Java Swing · CSV · OOP
+**Java · Swing · CSV · OOP**
 
-A full-featured desktop application built with Java Swing for managing farm operations end-to-end — store inventory, animal sales, veterinary services, and business reporting. Features an animated GUI with custom table headers, a live status bar, and CSV-based persistence with auto-save. Developed iteratively across 10+ commits with real improvements including input validation, duplicate guards, date format enforcement, low-stock warnings, report timestamps, and expanded seed data.
+Engineered a full-featured desktop system for managing farm operations, including inventory tracking, livestock sales, and reporting workflows.
 
-🔗 [View on GitHub](https://github.com/aryan-kandula/CSC-251/tree/main/FarmManagementSystem)
+**Key Contributions:**
+- Designed interactive GUI with custom components
+- Implemented CSV-based persistence with auto-save
+- Enforced input validation and duplicate protection
+- Integrated reporting tools with timestamps and alerts
 
----
-
-### 📋 Task Management Web Application
-> HTML5 · JavaScript · Python
-
-Engineered a student-focused platform centralising deadlines, Canvas links, and assignments into one dynamic interface — a JS front-end backed by a Python URL-parsing engine.
-
-🔗 [View Live](https://aryan-kandula.github.io/TaskManagerPro/)
+🔗 https://github.com/aryan-kandula/CSC-251/tree/main/FarmManagementSystem
 
 ---
 
-### 🗄️ SQL Database Query Projects
-> SQL · Relational Databases
+### 📋 Task Management Web App
+**HTML · JavaScript · Python**
 
-Crafted analytical queries surfacing real business insights using `GROUP BY`, `HAVING`, multi-table joins, and aggregation functions (`SUM`, `COUNT`, `AVG`).
+Developed a centralized productivity platform for managing assignments, deadlines, and academic resources.
 
----
+**Highlights:**
+- Dynamic and responsive frontend interface
+- Python-driven URL parsing and processing
+- Workflow-focused design for student productivity
 
-### 🐧 Linux Systems & Command-Line Experience
-> Ubuntu Linux · Bash
-
-Dived deep into Linux internals — managing background processes and system resources using `ps`, `top`, `kill`, `jobs`, `bg`, `fg`, `sleep`, and `chmod`.
-
----
-
-### 🤝 Collaborative GitHub Development
-> Git · GitHub · Team Workflows
-
-Thrived in team-based environments — contributing feature code, managing branches, reviewing contributions, and keeping version history clean and purposeful.
+🔗 https://aryan-kandula.github.io/TaskManagerPro/
 
 ---
 
-## 🌱 Currently Learning
+### 🗄️ SQL Query Projects
+**SQL · Relational Databases**
+
+Constructed analytical queries to extract meaningful insights using:
+- `GROUP BY`, `HAVING`
+- Multi-table joins
+- Aggregation functions (`SUM`, `COUNT`, `AVG`)
+
+---
+
+### 🐧 Linux & Systems Experience
+**Ubuntu · Bash**
+
+Applied system-level operations including:
+- Process monitoring and control (`ps`, `top`, `kill`)
+- Job management (`bg`, `fg`, `jobs`)
+- File permissions and command-line workflows
+
+---
+
+### 🤝 Collaborative Development
+**Git · GitHub**
+
+Maintained clean and structured workflows through:
+- Branching and merging strategies  
+- Clear and purposeful commit history  
+- Team-based collaboration practices  
+
+---
+
+## 🌱 Currently Advancing
 
 - Advanced Java & Python
-- AI collaboration & prompt engineering
 - SQL database design
 - Linux system administration
-- Building AI-assisted development workflows
+- AI-assisted engineering workflows
 
 ---
 
-## 💬 Ask Me About
+## 💬 Areas of Focus
 
-`Python` &nbsp; `Java` &nbsp; `SQL` &nbsp; `AI Tools` &nbsp; `Linux CLI` &nbsp; `GitHub Workflows` &nbsp; `Student Tech Life`
+`Python` · `Java` · `SQL` · `Linux` · `GitHub` · `AI Tools`
 
 ---
 
@@ -131,18 +154,22 @@ Thrived in team-based environments — contributing feature code, managing branc
 
 ---
 
-## 📬 Ways to Contact Me
+## 📬 Contact
 
-| | Platform | Link |
-|---|---|---|
-| 📧 | Email | [aaronaryankandula@gmail.com](mailto:aaronaryankandula@gmail.com) |
-| 🐙 | GitHub | [github.com/aryan-kandula](https://github.com/aryan-kandula) |
-| 💬 | Discord | [Join my server](https://discord.gg/y4ZHb8jnAh) |
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-Contact-darkred?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aaronaryankandula@gmail.com)
+&nbsp;&nbsp;&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-aryan--kandula-181717?style=for-the-badge&logo=github)](https://github.com/aryan-kandula)
+&nbsp;&nbsp;&nbsp;
+[![Discord](https://img.shields.io/badge/Discord-Join%20Server-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/y4ZHb8jnAh)
+
+</div>
 
 ---
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=1B8070&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+👋;Let's+build+something+amazing!+🚀;Graduating+FTCC+Summer+2025+·+UNCP+Fall+2025+🎓" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=1B8070&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+👋;Let's+build+something+meaningful!+🚀;FTCC+→+UNCP+Journey+2026+🎓" />
 
 </div>
