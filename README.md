@@ -7,8 +7,6 @@
 
 [![Email](https://img.shields.io/badge/Gmail-aaronaryankandula@gmail.com-darkred?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aaronaryankandula@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-1B8070?style=for-the-badge&logo=github&logoColor=white)](https://aryan-kandula.github.io/portfolio/)
-[![GitHub](https://img.shields.io/badge/GitHub-aryan--kandula-181717?style=for-the-badge&logo=github)](https://github.com/aryan-kandula)
-[![Discord](https://img.shields.io/badge/Discord-Join-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/y4ZHb8jnAh)
 
 <br/>
 
