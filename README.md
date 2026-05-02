@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0a4a6e&height=200&section=header&text=Aryan%20Kandula&fontSize=52&fontColor=e8f4f8&animation=fadeIn&fontAlignY=38&desc=Junior%20Software%20Developer%20·%20CS%20Student&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a3a5c,50:2d6a9f,100:4a90c4&height=200&section=header&text=Aryan%20Kandula&fontSize=52&fontColor=e8f4f8&animation=fadeIn&fontAlignY=38&desc=Junior%20Software%20Developer%20·%20CS%20Student&descAlignY=58&descSize=18" width="100%"/>
 
 <br/>
 
@@ -165,6 +165,6 @@ Hands-on system-level operations in Ubuntu environments.
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0a4a6e&height=120&section=footer&width=100%" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4a90c4,50:2d6a9f,100:1a3a5c&height=120&section=footer&width=100%" width="100%"/>
 
 </div>
