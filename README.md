@@ -1,20 +1,20 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1B8070&height=200&section=header&text=Aryan%20Kandula&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Junior%20Software%20Developer%20·%20CS%20Student&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0a4a6e&height=200&section=header&text=Aryan%20Kandula&fontSize=52&fontColor=e8f4f8&animation=fadeIn&fontAlignY=38&desc=Junior%20Software%20Developer%20·%20CS%20Student&descAlignY=58&descSize=18" width="100%"/>
 
 <br/>
 
-[![Email](https://img.shields.io/badge/Gmail-aaronaryankandula%40gmail.com-c0392b?style=flat-square&logo=gmail&logoColor=white)](mailto:aaronaryankandula@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-aaronaryankandula%40gmail.com-1a1a2e?style=flat-square&logo=gmail&logoColor=e8f4f8)](mailto:aaronaryankandula@gmail.com)
 &nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-1B8070?style=flat-square&logo=githubpages&logoColor=white)](https://aryan-kandula.github.io/portfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0a4a6e?style=flat-square&logo=githubpages&logoColor=e8f4f8)](https://aryan-kandula.github.io/portfolio/)
 &nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-aryan--kandula-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/aryan-kandula)
+[![GitHub](https://img.shields.io/badge/GitHub-aryan--kandula-1a1a2e?style=flat-square&logo=github&logoColor=e8f4f8)](https://github.com/aryan-kandula)
 &nbsp;
-[![Discord](https://img.shields.io/badge/Discord-Join-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/y4ZHb8jnAh)
+[![Discord](https://img.shields.io/badge/Discord-Join-2d6a9f?style=flat-square&logo=discord&logoColor=e8f4f8)](https://discord.gg/y4ZHb8jnAh)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=aryan-kandula&label=Profile%20views&color=1B8070&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=aryan-kandula&label=Profile%20views&color=0a4a6e&style=flat-square)
 
 </div>
 
@@ -60,8 +60,8 @@ CS student building structured, real-world software. I write clean, maintainable
 
 ### 🌾 Farm Management System
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Swing](https://img.shields.io/badge/Swing-GUI-orange?style=flat-square)
-![CSV](https://img.shields.io/badge/CSV-Persistence-1B8070?style=flat-square)
+![Swing](https://img.shields.io/badge/Swing-GUI-c68642?style=flat-square)
+![CSV](https://img.shields.io/badge/CSV-Persistence-0a4a6e?style=flat-square)
 
 Full-featured desktop app for managing farm operations end-to-end.
 
@@ -135,11 +135,11 @@ Hands-on system-level operations in Ubuntu environments.
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=aryan-kandula&theme=dark&hide_border=true&background=0D1117&stroke=1B8070&ring=1B8070&fire=FFA500&currStreakLabel=1B8070&dates=FFFFFF" height="175em"/>
+<img src="https://streak-stats.demolab.com?user=aryan-kandula&theme=dark&hide_border=true&background=1a1a2e&stroke=0a4a6e&ring=2d6a9f&fire=c68642&currStreakLabel=e8f4f8&dates=e8f4f8&sideLabels=e8f4f8" height="175em"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aryan-kandula&theme=react-dark&hide_border=true&area=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aryan-kandula&theme=react-dark&hide_border=true&area=true&bg_color=1a1a2e&color=e8f4f8&line=2d6a9f&point=c68642&area_color=0a4a6e" width="100%"/>
 
 </div>
 
@@ -149,11 +149,11 @@ Hands-on system-level operations in Ubuntu environments.
 
 <div align="center">
 
-![Advanced Java](https://img.shields.io/badge/Advanced_Java-80%25-1B8070?style=flat-square)
-![Python / Django](https://img.shields.io/badge/Python_%2F_Django-70%25-1B8070?style=flat-square)
-![SQL & DB Design](https://img.shields.io/badge/SQL_%26_DB_Design-60%25-0d5c4a?style=flat-square)
-![Linux Sysadmin](https://img.shields.io/badge/Linux_Sysadmin-50%25-0d5c4a?style=flat-square)
-![AI Engineering](https://img.shields.io/badge/AI_Engineering-80%25-1B8070?style=flat-square)
+![Advanced Java](https://img.shields.io/badge/Advanced_Java-80%25-0a4a6e?style=flat-square)
+![Python / Django](https://img.shields.io/badge/Python_%2F_Django-70%25-0a4a6e?style=flat-square)
+![SQL & DB Design](https://img.shields.io/badge/SQL_%26_DB_Design-60%25-2d6a9f?style=flat-square)
+![Linux Sysadmin](https://img.shields.io/badge/Linux_Sysadmin-50%25-2d6a9f?style=flat-square)
+![AI Engineering](https://img.shields.io/badge/AI_Engineering-80%25-0a4a6e?style=flat-square)
 
 </div>
 
@@ -165,6 +165,6 @@ Hands-on system-level operations in Ubuntu environments.
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1B8070&height=120&section=footer&width=100%" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0a4a6e&height=120&section=footer&width=100%" width="100%"/>
 
 </div>
