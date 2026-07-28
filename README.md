@@ -131,11 +131,6 @@ Hands-on system-level operations in Ubuntu environments.
 &nbsp;
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aryan-kandula&theme=2077" height="165em"/>
 &nbsp;
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aryan-kandula&theme=2077" height="165em"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=aryan-kandula&theme=dark&hide_border=true&background=1a1a2e&stroke=0a4a6e&ring=2d6a9f&fire=c68642&currStreakLabel=e8f4f8&dates=e8f4f8&sideLabels=e8f4f8" height="175em"/>
 
 <br/><br/>
 
